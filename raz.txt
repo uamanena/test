@@ -3,6 +3,6 @@ int main() {
 float a = 4.0;
 int b = 7;
 
-return a;
+return b;
 
 }
